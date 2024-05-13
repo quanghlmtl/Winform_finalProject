@@ -1,0 +1,12 @@
+D:\C#\nam 3\cuoiki\final_project\Data Access Layer\bin\Debug\net8.0\Data Access Layer.deps.json
+D:\C#\nam 3\cuoiki\final_project\Data Access Layer\bin\Debug\net8.0\Data Access Layer.dll
+D:\C#\nam 3\cuoiki\final_project\Data Access Layer\bin\Debug\net8.0\Data Access Layer.pdb
+D:\C#\nam 3\cuoiki\final_project\Data Access Layer\obj\Debug\net8.0\Data Access Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\nam 3\cuoiki\final_project\Data Access Layer\obj\Debug\net8.0\Data Access Layer.AssemblyInfoInputs.cache
+D:\C#\nam 3\cuoiki\final_project\Data Access Layer\obj\Debug\net8.0\Data Access Layer.AssemblyInfo.cs
+D:\C#\nam 3\cuoiki\final_project\Data Access Layer\obj\Debug\net8.0\Data Access Layer.csproj.CoreCompileInputs.cache
+D:\C#\nam 3\cuoiki\final_project\Data Access Layer\obj\Debug\net8.0\Data Access Layer.dll
+D:\C#\nam 3\cuoiki\final_project\Data Access Layer\obj\Debug\net8.0\refint\Data Access Layer.dll
+D:\C#\nam 3\cuoiki\final_project\Data Access Layer\obj\Debug\net8.0\Data Access Layer.pdb
+D:\C#\nam 3\cuoiki\final_project\Data Access Layer\obj\Debug\net8.0\ref\Data Access Layer.dll
+D:\C#\nam 3\cuoiki\final_project\Data Access Layer\obj\Debug\net8.0\Data Access Layer.csproj.AssemblyReference.cache

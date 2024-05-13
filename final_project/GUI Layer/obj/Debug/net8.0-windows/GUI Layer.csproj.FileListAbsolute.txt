@@ -1,0 +1,32 @@
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\GUI Layer.exe
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\GUI Layer.deps.json
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\GUI Layer.runtimeconfig.json
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\GUI Layer.dll
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\GUI Layer.pdb
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\System.Management.dll
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI Layer.csproj.AssemblyReference.cache
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI Layer.csproj.GenerateResource.cache
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI Layer.AssemblyInfoInputs.cache
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI Layer.AssemblyInfo.cs
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI Layer.csproj.CoreCompileInputs.cache
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI Layer.csproj.CopyComplete
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI Layer.dll
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\refint\GUI Layer.dll
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI Layer.pdb
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI Layer.genruntimeconfig.cache
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\ref\GUI Layer.dll
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI_Layer.Login.frmLogin.resources
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI_Layer.Properties.Resources.resources
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI_Layer.Login.Method.resources
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI_Layer.EditToolBox.editTextBox.resources
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI_Layer.frmMain.resources
+D:\C#\nam 3\cuoiki\final_project\GUI Layer\obj\Debug\net8.0-windows\GUI_Layer.Home.ucHome.resources
